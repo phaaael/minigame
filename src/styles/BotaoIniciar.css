@@ -1,0 +1,13 @@
+.botao-iniciar {
+  background-color: #f3de25;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.botao-iniciar:hover {
+  background-color: #d4b71d;
+}

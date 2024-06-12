@@ -1,0 +1,21 @@
+.sequencia {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.sequencia span {
+  font-size: 24px;
+  margin: 0 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.sequencia .atual {
+  background-color: #f3de25;
+}
+
+.sequencia .correto {
+  background-color: #d4b71d;
+}
